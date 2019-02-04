@@ -2,17 +2,33 @@ language: ruby
 rvm:
   - 2.4.1
 
-script: 
-  bundle exec jekyll build
-  bundle exec htmlproofer ./_site
+before_install:
+  - gem install bundler
+install: 
+  - gem install jekyll html-proofer
 
-# # deploy:
-#   provider: pages
-#   skip-cleanup: true
-#   local_dir: _site/
-#   repo: gjbunyea/gjbunyea.github.io
-#   target_branch: master
-#   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-#   keep-history: true
-#   on:
-#     branch: master
+script:
+  - bundle install
+  - bundle exec jekyll build 
+  # - bundle exec htmlproofer ./_site
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+exclude: [vendor]
+
+sudo: false
+
+cache: bundler
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local_dir: _site/
+  repo: gjbunyea/gjbunyea.github.io
+  target_branch: master
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master
