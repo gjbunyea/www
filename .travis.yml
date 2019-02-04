@@ -10,7 +10,7 @@ install:
 script:
   - bundle install
   - bundle exec jekyll build 
-  - bundle exec htmlproofer ./_site
+  # - bundle exec htmlproofer ./_site
 
 env:
   global:
@@ -22,13 +22,13 @@ sudo: false
 
 cache: bundler
 
-# # deploy:
-#   provider: pages
-#   skip-cleanup: true
-#   local_dir: _site/
-#   repo: gjbunyea/gjbunyea.github.io
-#   target_branch: master
-#   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-#   keep-history: true
-#   on:
-#     branch: master
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local_dir: _site/
+  repo: gjbunyea/gjbunyea.github.io
+  target_branch: master
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master
