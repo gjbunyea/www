@@ -19,7 +19,7 @@ title                    : "Greg Bunyea"
 title_separator          : "::"
 name                     : "Greg Bunyea"
 description              : "Personal Website and Portfolio"
-url                      : "http://gregbunyea.com"
+url                      : "https://gregbunyea.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gjbunyea/gjbunyea.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -222,6 +222,15 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: 
 
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
 
 # Plugins (previously gems:)
 plugins:
