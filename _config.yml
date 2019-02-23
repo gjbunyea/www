@@ -19,7 +19,7 @@ title                    : "Greg Bunyea"
 title_separator          : "::"
 name                     : "Greg Bunyea"
 description              : "Personal Website and Portfolio"
-url                      : "http://gregbunyea.com"
+url                      : "https://gregbunyea.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gjbunyea/gjbunyea.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -75,7 +75,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "ufhBk3PwwTvOLIAdMIfNMp5RqjAitbMvDcBidKqMi-w"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -107,13 +107,19 @@ analytics:
 author:
   name             : "Greg Bunyea"
   avatar           : "/assets/images/gjb_profile2016.jpg"
-  bio              : "Learning Engineer"
+  bio              : "Learning Designer"
   location         : "Pittsburgh, PA"
-  email            : "gjbunyea@gmail.com"
+  # email            : "gbunyea+site@cmu.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:gjbunyea@gmail.com
+    - label: "gbunyea@cmu.edu"
+      icon: "fas fa-envelope"
+      url: "mailto:gbunyea+site@cmu.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/gregbunyea"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/gjbunyea"
     - # label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,9 +129,6 @@ author:
     - # label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - # label: "GitHub"
-      # icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - # label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

@@ -19,13 +19,6 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
-
-    &:hover {
-      opacity: 1;
-    }
 
     &.sticky {
       overflow-y: auto;
@@ -117,8 +110,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 50px;
+  height: 50px;
 
   @include breakpoint($large) {
     display: block;
@@ -127,12 +120,13 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 200px;
     border-radius: 50%;
+    // border: solid black 3px;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 3px solid black;
     }
   }
 }
@@ -140,15 +134,18 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 15px;
+  align-content: center;
+  padding-left: 25px;
   padding-right: 25px;
   line-height: 1;
 
   @include breakpoint($large) {
+    align-content: center;
     display: block;
     width: 100%;
-    padding-left: 0;
+    padding-left: 10%;
     padding-right: 0;
+
   }
 
   a {
@@ -187,6 +184,7 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
+  padding-left: 10%;
 
   li:last-child {
     a {
@@ -195,6 +193,7 @@
   }
 
   @include breakpoint($large) {
+    padding-left: 10%;
     display: block;
   }
 
