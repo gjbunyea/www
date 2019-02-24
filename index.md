@@ -3,6 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: "Learning Engineering and Design"
+# Designing Educational Experiences
+# Learning should be fun.
+# Make it happen!
+
 layout: splash
 classes:
  - landing
