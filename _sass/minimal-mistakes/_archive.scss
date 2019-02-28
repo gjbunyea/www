@@ -36,7 +36,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $serif;
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -78,7 +78,9 @@
 
 .archive__item-teaser {
   position: relative;
-  border-radius: $border-radius;
+  border-radius: 10px;
+  border: 3px solid $greg-theme-main-color;
+  // filter:brightness(.8);
   overflow: hidden;
 
   img {

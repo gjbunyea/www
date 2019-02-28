@@ -3,16 +3,11 @@ layout: single
 title: About
 permalink: /about/
 ---
+## Current
+I'm currently getting my Masters in Education Technology and Applied Learning Science [(**METALS**)](https://metals.hcii.cmu.edu) at [Carnegie Mellon University](cmu.edu). Here, I study Learning and Cognitive Science, Computer Science, Design and User-Centered Research Methodologies. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Past
+Prior to METALS, I recieved a B.A. in Computer Science from [the University at Buffalo, SUNY](buffalo.edu). While at Buffalo, I spent two years designing, developing, and iterating on a lage-scale seminar called CSE 199: How the Internet Works.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Personal
+I come from a large Italian-American family, living in the Greater NYC area. I like drawing cartoons, having big meals with friends, and making homemade pizzas.
