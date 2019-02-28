@@ -13,3 +13,11 @@
 .fa-linkedin-in {
     color: black;
 }
+
+p {
+    font-family: $sans-serif;
+}
+
+.greedy-nav .visible-links a:before{
+    background: #1155cc;
+}
