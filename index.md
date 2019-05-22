@@ -32,9 +32,9 @@ feature_row:
     excerpt: "An app for competency assessment in PBL courses"
 -   image_path: /assets/images/phonics_tutor/phonics_display.png
     title: "PhonicsTutor"
-    url: ""
-    btn_label: "Coming Soon"
-    btn_class: "btn--disabled"
+    url: "https://tutortown.github.io/PhonicsTutor/"
+    btn_label: "See the Tutor"
+    btn_class: "btn--primary"
     excerpt: "An intelligent tutor to teach children reading"
 -   image_path: /assets/images/knowble/knowble_display.png
     title: "Knowble"

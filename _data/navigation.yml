@@ -1,9 +1,11 @@
 # main links
 main:
+  - title: "Resume"
+    url: /GregBunyeaResume.pdf
   - title: "About"
     url: /about/
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
