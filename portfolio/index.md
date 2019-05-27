@@ -2,7 +2,7 @@
 title: Portfolio
 layout: collection
 permalink: /portfolio/
-# collection: portfolio
+collection: portfolio
 entries_layout: grid
 # toc: true
 # toc_label: "Entries"
