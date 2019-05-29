@@ -17,35 +17,36 @@ sidebar:
     text: "Stakeholder Mapping, Contextual Inquiry, Observation, Affinity Diagrammming, Problem Mapping, Service Mapping, Speeddating, Prototyping" 
 ---
 
-# Description
+## Description
 Zipper is an application designed to help project-based learning (PBL) instructors assess students' skills and process growth. Zipper is the culmination of a semester-long design process, done as an academic project in Marti Louw's Learning Media Design course as part of my METALS curriculum. The project's initial prompt was to investigate portfolio practices and assessment in PBL courses at Winchester Thurston Independent School.
+<!-- 
+## Phase 1: Research
+Initial debrief with Mr. Marx  
+Expert portfolio practicioners  
+First interview  
+Interview with Mr. Nye  
+Observation of Mr. Marx's Research Science course  
+Follow up intervieiw with Mr Marx  
 
-# Phase 1: Research
-Initial debrief with Mr. Marx
-Expert portfolio practicioners
-First interview
-Interview with Mr. Nye
-Observation of Mr Marx's Research Science course
-Follow up intervieiw with Mr Marx
-
-# Phase 2: Synthesis
+## Phase 2: Synthesis
 Portfolio practioners into identity model via affinity diagramming
 Problem mapping of Mr Nye's & Marx's interviews 
 
-# Phase 3: Ideation
-## Speed-dating
+## Phase 3: Ideation
+### Speed-dating
 Developed 20 ideas, narrowed down to 10 ideas
 Speed-dated with Mr. Marx to determine needs
 Selected "sliders" as final idea
 
-## Service Mapping
+### Service Mapping
 Created service mapping to plan out product
 
-# Phase 4: Prototyping
-## Lo-Fi
+## Phase 4: Prototyping
+### Lo-Fi
 Chose to create Role / Look & Feel prototype
 Created lo-fi
 
-## Hi-Fi & Validation Testing
+### Hi-Fi & Validation Testing
 
-# Conclusion
+
+## Conclusion -->

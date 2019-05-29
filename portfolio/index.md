@@ -4,9 +4,7 @@ layout: collection
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
-# toc: true
-# toc_label: "Entries"
-# toc_icon: "cog"
+author_profile: false
 ---
 
 <!-- TEMPLATE YAML
