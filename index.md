@@ -23,25 +23,25 @@ header:
     -   label: "View My Resume"
         url: /GregBunyeaResume.pdf
 
-feature_row:
--   image_path: /assets/images/zipper/zipper_display.png
-    title: "Zipper"
-    url: "https://projects.invisionapp.com/share/QWPHEFQ8XY9#/screens/335414339"
-    btn_label: "See the Prototype"
-    btn_class: "btn--primary"
-    excerpt: "An app for competency assessment in PBL courses"
--   image_path: /assets/images/phonics_tutor/phonics_display.png
-    title: "PhonicsTutor"
-    url: "https://tutortown.github.io/PhonicsTutor/"
-    btn_label: "See the Tutor"
-    btn_class: "btn--primary"
-    excerpt: "An intelligent tutor to teach children reading"
--   image_path: /assets/images/knowble/knowble_display.png
-    title: "Knowble"
-    url: ""
-    btn_label: "Coming Soon"
-    btn_class: "btn--disabled"
-    excerpt: "An app to connect life skill experts with learners"
+# feature_row:
+# -   image_path: /assets/images/zipper/zipper_display.png
+#     title: "Zipper"
+#     url: ""
+#     btn_label: "Learn More"
+#     btn_class: "btn--primary"
+#     excerpt: "An app for competency assessment in PBL courses"
+# -   image_path: /assets/images/phonics_tutor/phonics_display.png
+#     title: "PhonicsTutor"
+#     url: "https://tutortown.github.io/PhonicsTutor/"
+#     btn_label: "See the Tutor"
+#     btn_class: "btn--primary"
+#     excerpt: "An intelligent tutor to teach children reading"
+# -   image_path: /assets/images/knowble/knowble_display.png
+#     title: "Knowble"
+#     url: ""
+#     btn_label: "Coming Soon"
+#     btn_class: "btn--disabled"
+#     excerpt: "An app to connect life skill experts with learners"
 
     # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"

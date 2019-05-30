@@ -20,10 +20,10 @@ sidebar:
 ## Description
 As our METALS Capstone project, my team and I work with Renaissance Learning, Inc. to research and develop a dashboard enabling school districts to compare their student's achievement to similar schools. We have spent Spring 2019 researching and ideating with district administrators across the country. 
 
-This project is currently ongoing, as we are currently completing design research as we begin developing and iterating on our product.
+This project is ongoing. We are currently completing design research as we begin developing and iterating on our product.
 
 
-<!-- # Phase 1: Research
+<!-- ## Phase 1: Research
 
 
 # Phase 2: Synthesis

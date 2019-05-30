@@ -1,9 +1,13 @@
 ---
 title: "Zipper"
 excerpt: "An app for assessing competencies in PBL courses"
+# link: /GregBunyeaResume.pdf
 header:
-#   image: /assets/images/zipper/zipper_main.png
+  # image: /assets/images/zipper/zipper_main.png
   teaser: /assets/images/zipper/zipper_display_square.png
+  actions:
+    -   label: "View My Resume"
+        url: /GregBunyeaResume.pdf
 sidebar:
   - title: "Role"
     text: "Researcher"
@@ -17,8 +21,11 @@ sidebar:
     text: "Stakeholder Mapping, Contextual Inquiry, Observation, Affinity Diagrammming, Problem Mapping, Service Mapping, Speeddating, Prototyping" 
 ---
 
+<!-- [Try Out Zipper](https://projects.invisionapp.com/share/QWPHEFQ8XY9#/screens/335414339) -->
+
 ## Description
 Zipper is an application designed to help project-based learning (PBL) instructors assess students' skills and process growth. Zipper is the culmination of a semester-long design process, done as an academic project in Marti Louw's Learning Media Design course as part of my METALS curriculum. The project's initial prompt was to investigate portfolio practices and assessment in PBL courses at Winchester Thurston Independent School.
+
 <!-- 
 ## Phase 1: Research
 Initial debrief with Mr. Marx  
@@ -49,4 +56,5 @@ Created lo-fi
 ### Hi-Fi & Validation Testing
 
 
-## Conclusion -->
+## Conclusion 
+-->
