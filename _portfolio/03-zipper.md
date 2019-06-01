@@ -18,7 +18,7 @@ sidebar:
   - title: "Team Members"
     text: "[Angie Wang](https://angiewang.com/), [Zach Peng](http://pzq.me/)"
   - title: "What I Learned"
-    text: "Stakeholder Mapping, Contextual Inquiry, Observation, Affinity Diagrammming, Problem Mapping, Service Mapping, Speeddating, Prototyping" 
+    text: "Stakeholder Mapping, Contextual Inquiry, Observation, Affinity Diagramming, Problem Mapping, Service Mapping, Speed-dating, Prototyping" 
 ---
 
 <!-- [Try Out Zipper](https://projects.invisionapp.com/share/QWPHEFQ8XY9#/screens/335414339) -->
@@ -29,14 +29,14 @@ Zipper is an application designed to help project-based learning (PBL) instructo
 <!-- 
 ## Phase 1: Research
 Initial debrief with Mr. Marx  
-Expert portfolio practicioners  
+Expert portfolio practitioners  
 First interview  
 Interview with Mr. Nye  
 Observation of Mr. Marx's Research Science course  
-Follow up intervieiw with Mr Marx  
+Follow up interview with Mr Marx  
 
 ## Phase 2: Synthesis
-Portfolio practioners into identity model via affinity diagramming
+Portfolio practitioners into identity model via affinity diagramming
 Problem mapping of Mr Nye's & Marx's interviews 
 
 ## Phase 3: Ideation

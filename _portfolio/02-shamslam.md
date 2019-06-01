@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/creative_work.jpg
 sidebar:
   - title: "Role"
-    text: "Researcher, Game Desginer"
+    text: "Researcher, Game Designer"
   - title: "Duration"
     text: "3 months, ongoing"
   - title: "Team Members"
@@ -16,7 +16,7 @@ sidebar:
 ---
 
 ## Description
-ShamSlam is a table-top mental-health game that aims to teach players best coping strategies for Impostor Syndrome. It was initially developed for Design for Educational Games, a course taught by Erik Harpstead at CMU. We were inspired to create a game about Impostor Syndrome as we had each personally experienced it.  
+ShamSlam is a table-top mental-health game that aims to teach players best coping strategies for Impostor Syndrome. It was initially developed for Design for Educational Games, a course taught by Erik Harpstead at CMU. We were inspired to create a game about Impostor Syndrome based on our own personal experiences.  
   
 This project is still in development, as we prepare for submission to educational game competitions. 
 
