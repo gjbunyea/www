@@ -6,8 +6,8 @@ header:
   # image: /assets/images/zipper/zipper_main.png
   teaser: /assets/images/zipper/zipper_display_square.png
   actions:
-    -   label: "View My Resume"
-        url: /GregBunyeaResume.pdf
+    -   label: "View Zipper"
+        url: 
 sidebar:
   - title: "Role"
     text: "Researcher"
@@ -58,3 +58,5 @@ Created lo-fi
 
 ## Conclusion 
 -->
+
+![Zipper App Image](/assets/images/zipper/zipper_main.png)

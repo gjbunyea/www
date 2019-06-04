@@ -3,7 +3,7 @@ title: "PulmonaryPal"
 excerpt: "Learning journal for COPD patients going through Pulmonary Rehabilitation"
 header:
 #   image: /assets/images/zipper/zipper_main.png
-  teaser: /assets/images/creative_work.jpg
+  teaser: /assets/images/pulmonarypal/pulmonary_match_zoom.jpg
 sidebar:
   - title: "Role"
     text: "Researcher, Designer"
@@ -18,7 +18,8 @@ sidebar:
 ---
 
 ## Description
-PulmonaryPal is a notebook designed for COPD patients in Pulmonary Rehabilitation (PR). We envision PulmonaryPal as an integral part of PR, acting as a daily health tracker as well as scaffolding key learnings. This project was completed as part of Stacie Rohrbach's Learner Experience Design course at Carnegie Mellon's School of Design. 
+PulmonaryPal is a notebook designed for COPD patients in Pulmonary Rehabilitation (PR). We envision PulmonaryPal as an integral part of PR, acting as a daily health tracker as well as scaffolding key learnings. This project was completed as part of Stacie Rohrbach's Learner Experience Design course at Carnegie Mellon's School of Design.  
+
 <!-- # Phase 1: Research
 
 # Phase 2: Synthesis
@@ -28,3 +29,5 @@ PulmonaryPal is a notebook designed for COPD patients in Pulmonary Rehabilitatio
 # Phase 4: Prototyping
 
 # Conclusion -->
+
+![PulmonaryPal Book](/assets/images/pulmonarypal/pulmonary_book.jpg)

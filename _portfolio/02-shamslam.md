@@ -3,7 +3,7 @@ title: "ShamSlam"
 excerpt: "An educational game to help players learn how to cope with Impostor Syndrome"
 header:
 #   image: /assets/images/zipper/zipper_main.png
-  teaser: /assets/images/creative_work.jpg
+  teaser: /assets/images/shamslam/game_cards.jpg
 sidebar:
   - title: "Role"
     text: "Researcher, Game Designer"
@@ -30,3 +30,4 @@ This project is still in development, as we prepare for submission to educationa
 # Phase 4: Prototyping
 
 # Conclusion -->
+![ShamSlam Game Pieces](/assets/images/shamslam/game_pieces.jpg)

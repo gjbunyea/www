@@ -3,7 +3,7 @@ title: "Debugging Tutor"
 excerpt: "A tutor designed to break-ground on debugging as a teachable process"
 header:
 #   image: /assets/images/zipper/zipper_main.png
-  teaser: /assets/images/creative_work.jpg
+  teaser: /assets/images/debugging_tutor/debug_zoom.png
 sidebar:
   - title: "Role"
     text: "Researcher, Designer"
@@ -27,3 +27,5 @@ Debugging Tutor is an intelligent tutor that breaks down debugging into several 
 # Phase 4: Prototyping
 
 # Conclusion -->
+
+![Debugging Tutor Image](/assets/images/debugging_tutor/debug_tutor.png)
