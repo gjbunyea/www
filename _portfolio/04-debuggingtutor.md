@@ -38,9 +38,10 @@ We began by creating a theoretical CTA, exploring our own intuitions about how w
 
 We then designed 4 debugging tasks and recruited participants for our study. Our tasks involved unfamiliar code with an existing bug in it (either logical or runtime bugs)--we would have participants debug and think aloud so we can understand their process.
 
-We conducted 6 CTAs in total: 1 Expert, 4 TAs as near experts, and 1 novice. 
+We conducted 6 CTAs in total: 1 Expert, 4 TAs as near experts, and 1 novice. The video below is our expert CTA, who blew through our tasks with ease (as we were targeting more novice programmers). Though the bugs were found much faster, many of the tactics used were similar to those by our TAs.  
 
-![Video of Kelly Rivers' CTA]()
+[![Video of Debugging](http://img.youtube.com/vi/aaFyL0z2Jfg/0.jpg)](http://www.youtube.com/watch?v=aaFyL0z2Jfg "Expert CTA Debugging Tutor")
+
 
 ## Sequence Model
 We drew on our CTA data to create a Sequence Model representing the steps and decision-points that experts use to locate a bug in a program. Our model describes the iterative process whereby a programmer uses their existing knowledge to inform their evaluation of the state of the program to formulate hypotheses about the problem and to test their hypotheses in order to increase their knowledge of the program.
@@ -48,10 +49,12 @@ We drew on our CTA data to create a Sequence Model representing the steps and de
 ### Debugging Sequence Model
 Below is our Sequence Model. The model is analogous to medical diagnosis or the scientific method as it involves collecting evidence, forming hypotheses, and using information to test those hypotheses.
 
-![Sequence Model for Debugging]()
+![Sequence Model for Debugging](/assets/images/debugging_tutor/debugging_sequence_model.jpg)
 
 ## Tutor Development
 We opted to focus on logical errors, because they are the most difficult to approach (since interpreters/compilers can’t point you to a problematic line for these bugs) and also the hardest to teach students to debug. Logical errors require the broadest range of techniques to diagnose.  As much of how debugging is taught centers around modeling the process inductively with worked examples, we felt that students were likely to reap the most benefit from explicit instruction and practice debugging logical errors.
+
+![Whiteboard Sketch of Tutor Design](/assets/images/debugging_tutor/debug_whiteboard.png)
 
 We used the sequence model to develop the following four learning objectives:
 1. Students will identify a model of a program’s control flow that correctly sequences the order of the function calls and characterizes decision points and/or possible repetition of function calls.
