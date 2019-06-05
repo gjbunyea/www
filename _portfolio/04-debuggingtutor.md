@@ -13,6 +13,9 @@ sidebar:
     text: "[Ryan Emberling](https://emberling.education/#/about), [Emilio Vargas-Vite](https://github.com/Eleutherado)"
   - title: "What I Learned"
     text: "Cognitive Task Analysis, Sequence Modelling, Prototyping" 
+toc: true
+toc_label: "Overview"
+toc_sticky: true
 ---
 
 ## Description
@@ -40,8 +43,7 @@ We then designed 4 debugging tasks and recruited participants for our study. Our
 
 We conducted 6 CTAs in total: 1 Expert, 4 TAs as near experts, and 1 novice. The video below is our expert CTA, who blew through our tasks with ease (as we were targeting more novice programmers). Though the bugs were found much faster, many of the tactics used were similar to those by our TAs.  
 
-[![Video of Debugging](http://img.youtube.com/vi/aaFyL0z2Jfg/0.jpg)](http://www.youtube.com/watch?v=aaFyL0z2Jfg "Expert CTA Debugging Tutor")
-
+{% include video id="aaFyL0z2Jfg" provider="youtube" %}
 
 ## Sequence Model
 We drew on our CTA data to create a Sequence Model representing the steps and decision-points that experts use to locate a bug in a program. Our model describes the iterative process whereby a programmer uses their existing knowledge to inform their evaluation of the state of the program to formulate hypotheses about the problem and to test their hypotheses in order to increase their knowledge of the program.
