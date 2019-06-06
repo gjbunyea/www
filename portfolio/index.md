@@ -20,7 +20,7 @@ feature_row:
 -   image_path: /assets/images/creative_work.jpg
     title: "ShamSlam"
     url: "/portfolio/shamslam"
-    excerpt: "Teaching to Cope with Impostor Syndrome through Games"
+    excerpt: "Learn to Cope with Impostor Syndrome through Games"
 -   image_path: /assets/images/creative_work.jpg
     title: "Zipper"
     url: "/portfolio/zipper"
