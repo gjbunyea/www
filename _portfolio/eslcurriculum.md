@@ -1,18 +1,18 @@
 ---
 title: "Career Oriented ESL"
-excerpt: "1-week curriculum module to teach formal and informal language, using careers as a context"
+excerpt: "Career-Centered English for Refugees"
 header:
-#   image: /assets/images/zipper/zipper_main.png
+  image: /assets/images/creative_work.jpg
   teaser: /assets/images/creative_work.jpg
-sidebar:
-  - title: "Role"
-    text: "Instructional Designer"
-  - title: "Duration"
-    text: "3 months"
-  - title: "In Partnership With"
-    text: "Journey's End Refugee Services"
-  - title: "What I Learned"
-    text: "Backward Curriculum Design, Iterative Development, Goal Alignment" 
+# sidebar:
+#   - title: "Role"
+#     text: "Instructional Designer"
+#   - title: "Duration"
+#     text: "3 months"
+#   - title: "In Partnership With"
+#     text: "Journey's End Refugee Services"
+#   - title: "What I Learned"
+#     text: "Backward Curriculum Design, Iterative Development, Goal Alignment" 
 ---
 
 ## Description

@@ -1,26 +1,41 @@
 ---
-title: Portfolio
-layout: collection
+title: "Portfolio"
+layout: splash
+classes: wide
 permalink: /portfolio/
-collection: portfolio
+# collection: portfolio
 entries_layout: grid
 author_profile: false
----
 
-<!-- TEMPLATE YAML
----
-title: "Zipper"
-excerpt: "An app for assessing competencies in PBL courses"
 header:
-#   image: /assets/images/zipper/zipper_main.png
-  teaser: /assets/images/zipper/zipper_display_square.png #appears on Portfolio page
-sidebar:
-  - title: "Role"
-    text: "Researcher"
-  - title: "Duration"
-    text: "4 months"
-  - title: "Team Members"
-    text: "[Angie Wang](https://angiewang.com/), [Zach Peng](http://pzq.me/)"
-  - title: "Methods"
-    text: "Stakeholder Mapping, Contextual Inquiry, Observation, Affinity Diagrammming, Problem Mapping, Service Mapping, Speeddating, Prototyping" 
---- -->
+    overlay_image: /assets/images/creative_work.jpg
+    overlay_color: "#fce205"
+    overlay_filter: "0.4"
+
+feature_row:
+-   image_path: /assets/images/creative_work.jpg
+    title: "METALS Capstone"
+    url: "/portfolio/capstone"
+    excerpt: "Enhancing Dashboards with Demographic Contexts for Renaissance Learning, Inc."
+-   image_path: /assets/images/creative_work.jpg
+    title: "ShamSlam"
+    url: "/portfolio/shamslam"
+    excerpt: "Teaching to Cope with Impostor Syndrome through Games"
+-   image_path: /assets/images/creative_work.jpg
+    title: "Zipper"
+    url: "/portfolio/zipper"
+    excerpt: "A Novel Approach to Competency Assessment"
+
+
+
+---       
+<!-- #  Portfolio   -->
+
+{% include feature_row %}
+
+<!-- 
+-   image_path: 
+    title: 
+    url:
+    excerpt:  
+    -->

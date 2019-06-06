@@ -1,6 +1,6 @@
 ---
 title: "PulmonaryPal"
-excerpt: "Learning journal for COPD patients going through Pulmonary Rehabilitation"
+excerpt: "Scaffolding Pulmonary Rehab for COPD Patients"
 header:
 #   image: /assets/images/zipper/zipper_main.png
   teaser: /assets/images/pulmonarypal/pulmonary_match_zoom.jpg

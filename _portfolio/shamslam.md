@@ -1,6 +1,6 @@
 ---
 title: "ShamSlam"
-excerpt: "An educational game to help players learn how to cope with Impostor Syndrome"
+excerpt: "Teaching to Cope with Impostor Syndrome through Games"
 header:
 #   image: /assets/images/zipper/zipper_main.png
   teaser: /assets/images/shamslam/game_cards.jpg
