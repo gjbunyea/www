@@ -1,6 +1,6 @@
 ---
 title: "Zipper"
-excerpt: "An app for assessing competencies in PBL courses"
+excerpt: "A Novel Approach to Competency Assessment"
 # link: /GregBunyeaResume.pdf
 header:
   # image: /assets/images/zipper/zipper_main.png
