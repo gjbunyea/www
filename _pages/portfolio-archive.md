@@ -28,8 +28,10 @@ feature_row:
     url: "/portfolio/zipper"
     excerpt: "A Novel Approach to Competency Assessment"
 
-
-
+-   image_path: assets/images/eslcurriculum/backward_design_small.jpg
+    title: "Career-Oriented ESL"
+    url: "/portfolio/eslcurriculum"
+    excerpt: "English Language Module using Careers as a Context"
 ---       
 <!-- #  Portfolio   -->
 
