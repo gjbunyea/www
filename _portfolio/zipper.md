@@ -1,62 +1,35 @@
 ---
 title: "Zipper"
 excerpt: "A Novel Approach to Competency Assessment"
-# link: /GregBunyeaResume.pdf
-header:
-  # image: /assets/images/zipper/zipper_main.png
-  teaser: /assets/images/zipper/zipper_display_square.png
-  actions:
-    -   label: "View Zipper"
-        url: 
-sidebar:
-  - title: "Role"
-    text: "Researcher"
-  - title: "Duration"
-    text: "4 months"
-  - title: "Client"
-    text: "Winchester Thurston Independent School"
-  - title: "Team Members"
-    text: "[Angie Wang](https://angiewang.com/), [Zach Peng](http://pzq.me/)"
-  - title: "What I Learned"
-    text: "Stakeholder Mapping, Contextual Inquiry, Observation, Affinity Diagramming, Problem Mapping, Service Mapping, Speed-dating, Prototyping" 
+
+gallery:
+  - url: /assets/images/zipper/affinity_ZA.jpg
+    image_path: /assets/images/zipper/affinity_ZA_sq.jpg
+  - url: /assets/images/zipper/marx_angie.jpg
+    image_path: /assets/images/zipper/marx_angie_sq.jpg
+  - url: /assets/images/zipper/marx_final_testing.jpg
+    image_path: /assets/images/zipper/marx_final_testing_sq.jpg
+
+# - url: /assets/images/zipper/zipper_sliders.png
+#     image_path: /assets/images/zipper/zipper_sliders_sq.png
+#   - url: /assets/images/zipper/zipper_customize.png
+#     image_path: /assets/images/zipper/zipper_customize_sq.png
+#   - url: /assets/images/zipper/zipper_groups.png
+#     image_path: /assets/images/zipper/zipper_groups_sq.png
 ---
 
+Zipper is an application designed to help project-based learning (PBL) instructors assess students' skills and process growth. The project's initial prompt was to investigate portfolio practices and assessment in PBL courses at Winchester Thurston Independent School.
+
+**Role** : Researcher
+
+**Duration** : 5 months
+
+**Team Members** : [Angie Wang](https://angiewang.com/), [Zach Peng](http://pzq.me/)
+
+**Course** : Learning Media Design, Prof. Marti Louw, Fall 2018
+
+**Client** : Winchester Thurston Independent School
+
+{% include gallery caption="" %}
+
 <!-- [Try Out Zipper](https://projects.invisionapp.com/share/QWPHEFQ8XY9#/screens/335414339) -->
-
-## Description
-Zipper is an application designed to help project-based learning (PBL) instructors assess students' skills and process growth. Zipper is the culmination of a semester-long design process, done as an academic project in Marti Louw's Learning Media Design course as part of my METALS curriculum. The project's initial prompt was to investigate portfolio practices and assessment in PBL courses at Winchester Thurston Independent School.
-
-<!-- 
-## Phase 1: Research
-Initial debrief with Mr. Marx  
-Expert portfolio practitioners  
-First interview  
-Interview with Mr. Nye  
-Observation of Mr. Marx's Research Science course  
-Follow up interview with Mr Marx  
-
-## Phase 2: Synthesis
-Portfolio practitioners into identity model via affinity diagramming
-Problem mapping of Mr Nye's & Marx's interviews 
-
-## Phase 3: Ideation
-### Speed-dating
-Developed 20 ideas, narrowed down to 10 ideas
-Speed-dated with Mr. Marx to determine needs
-Selected "sliders" as final idea
-
-### Service Mapping
-Created service mapping to plan out product
-
-## Phase 4: Prototyping
-### Lo-Fi
-Chose to create Role / Look & Feel prototype
-Created lo-fi
-
-### Hi-Fi & Validation Testing
-
-
-## Conclusion 
--->
-
-![Zipper App Image](/assets/images/zipper/zipper_main.png)
