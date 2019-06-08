@@ -46,11 +46,16 @@ Between the loops, you Align to ensure that your goals and game line up.
 * Synthesis
 
 ## Game Loop
-* 
+* Parallel Prototyping
+* Play-testing
+* Revisions
 
 ## Alignment
+* Goal Changes
+* Aesthetic Changes
 
 ## Final Design
+* ShamSlam 
 
 # Read More
 Tandem Design: [http://tandemdesign.strikingly.com/](http://tandemdesign.strikingly.com/)
