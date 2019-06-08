@@ -13,11 +13,6 @@ header:
     overlay_filter: "0.4"
 
 feature_row:
--   image_path: /assets/images/creative_work.jpg
-    title: "METALS Capstone"
-    url: "/portfolio/capstone"
-    excerpt: "Enhancing Dashboards with Demographic Contexts for Renaissance Learning, Inc."
-
 -   image_path: assets/images/shamslam/tandem_design_small.png
     title: "ShamSlam"
     url: "/portfolio/shamslam"
