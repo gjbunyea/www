@@ -17,11 +17,13 @@ feature_row:
     title: "METALS Capstone"
     url: "/portfolio/capstone"
     excerpt: "Enhancing Dashboards with Demographic Contexts for Renaissance Learning, Inc."
--   image_path: /assets/images/creative_work.jpg
+
+-   image_path: assets/images/shamslam/tandem_design_small.png
     title: "ShamSlam"
     url: "/portfolio/shamslam"
     excerpt: "Teaching to Cope with Impostor Syndrome through Games"
--   image_path: /assets/images/creative_work.jpg
+
+-   image_path: assets/images/zipper/zipper_model.png
     title: "Zipper"
     url: "/portfolio/zipper"
     excerpt: "A Novel Approach to Competency Assessment"
