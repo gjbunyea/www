@@ -24,24 +24,20 @@ header:
         url: /GregBunyeaResume.pdf
 
 feature_row:
--   image_path: /assets/images/zipper/zipper_display.png
+-   image_path: assets/images/shamslam/tandem_design_small.png
+    title: "ShamSlam"
+    url: "/portfolio/shamslam"
+    excerpt: "Teaching to Cope with Impostor Syndrome through Games"
+
+-   image_path: assets/images/zipper/zipper_model.png
     title: "Zipper"
-    url: "/portfolio/03-zipper"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-    excerpt: "An app for competency assessment in PBL courses"
--   image_path: /assets/images/debugging_tutor/debug_zoom.png
-    title: "Debugging Tutor"
-    url: "/portfolio/04-debuggingtutor"
-    btn_label: "See the Tutor"
-    btn_class: "btn--primary"
-    excerpt: "An intelligent tutor to unpack debugging as a teachable process"
--   image_path: /assets/images/knowble/knowble_display.png
-    title: "Knowble"
-    url: ""
-    btn_label: "Coming Soon"
-    btn_class: "btn--disabled"
-    excerpt: "An app to connect life skill experts with learners"
+    url: "/portfolio/zipper"
+    excerpt: "A Novel Approach to Competency Assessment"
+
+-   image_path: assets/images/eslcurriculum/backward_design_small.jpg
+    title: "Career-Oriented ESL"
+    url: "/portfolio/eslcurriculum"
+    excerpt: "English Language Module using Careers as a Context"
 
     # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
