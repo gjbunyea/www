@@ -31,7 +31,6 @@ This project is still in development, as we prepare for submission to the Games 
 ## Tandem Design
 Our main development framework was the Tandem-Transformational Game Design framework. Tandem Design proposes two iterative loops--educational goals and game development--with alignment between them. 
 
-
 {% include figure image_path="/assets/images/shamslam/tandem_design.png" alt="Tandem Design Framework" caption="Tandem Design Framework developed at Carnegie Mellon's OH! Lab" %}
 
 In the Goal Loop, you do lit review, research, and synthesize findings to define what it is you'll teach.
@@ -41,6 +40,8 @@ In the Game Loop you develop the game, playtest, and evaluate enjoyment.
 Between the loops, you Align to ensure that your goals and game line up.
 
 ## Goal Loop
+
+We began defining our goals with Literature Review. Much of our research suggested that Cognitive Behavioral Therapy (CBT) techniques (such as mood monitoring) are the best way to overcome impostor syndrome. However, CBT techniques require small habits built up over long periods of time, which sounded like 
 * Lit Review
 * Interviews
 * Synthesis
