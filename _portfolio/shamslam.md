@@ -13,7 +13,7 @@ gallery:
 toc: true
 toc_sticky: true
 ---
-ShamSlam is a card game to teach coping strategies for Impostor Syndrome. We were inspired to create a game about Impostor Syndrome based on our own personal experiences.  
+ShamSlam is a card game to teach coping strategies for Impostor Syndrome (IS). We were inspired to create a game about IS based on our own personal experiences.  
   
 This project is still in development, as we prepare for submission to the Games for Change Awards 2020. 
 
@@ -40,18 +40,59 @@ In the Game Loop you develop the game, playtest, and evaluate enjoyment.
 Between the loops, you Align to ensure that your goals and game line up.
 
 ## Goal Loop
+### Lit Review  
+Out initial lit review suggested that Cognitive Behavioral Therapy (CBT) techniques are the best way to overcome IS. CBT techniques require small habits built up over long periods of time, which sounded like a game design anti-pattern.   
 
-We began defining our goals with Literature Review. Much of our research suggested that Cognitive Behavioral Therapy (CBT) techniques (such as mood monitoring) are the best way to overcome impostor syndrome. However, CBT techniques require small habits built up over long periods of time, which sounded like 
-* Lit Review
-* Interviews
-* Synthesis
+Imagine a game designed to teach you how to do a Thought Record...
+
+{% include figure image_path="/assets/images/shamslam/cbt_task.png" caption="Cognitive Restructuring Thought Record" %}
+
+I'm sure it can be done, but we wanted to tap into something more cultural and less monotonous. 
+
+### Interviews
+Shifting toward a more behavioral/socio-cultural game meant we would need to uncover behavior.  
+We conducted internal interviews (as we all had experience with IS). We also sent a survey out to understand how, and in what contexts others felt like an impostor.
+
+We found that we each had different perspectives on where IS is most prominent--some felt at work, others in school, and others with family as a more cultural sense of impostor.
+
+### Synthesis
+Our interviews told us that people feel like imposters in highly different scenarios, though our lit review told us there are only a few ways to cope deemed "healthy" (Asking for support from a friend for example). 
+
+We looked at all of the information we had collected and broke them down along different goal dimensions. We felt that there was good substance for cognitive and dispositional goals, but not as much on skills. 
+
+Cognitive Goals:
+* Increase awareness of IS symptoms
+* Differentiate between good / bad coping mechanisms
+* Identify situations to apply coping mechanisms
+
+Dispositional Goals:
+* See that IS can be overcome
+* See that IS is common and normal
+* Gain efficacy to use good coping mechanisms in their life
+
+## First Alignment
+As we prepared to move into game development, we needed a bridge between goals and game mechanics. To do so, we used the MDA Framework which breaks down games into Mechanics (pieces), Dynamics (run-time behavior), and Aesthetics (felt emotions). As game designers we can influence Mechanics, but players feel Aesthetics. 
+
+We then turned our Learning Goals into congruent Aesthetic Goals so that we could design a game accordingly. 
+
+Aesthetic Goals:
+* Sensation
+  * Recognizing I.S. in yourself and catching yourself in the act of a bad coping mechanism is a sensory experience. Paying attention to how you feel a large part of catching yourself in the act.
+* Empathy
+  * I.S. feels bad and its prevalence makes empathy important for realizing that you’re not alone or that those around you could have I.S. 
+* Trust
+  * A main coping mechanism is confiding in others and valuing others’ opinions of your work
+* Expression
+  * Finding your voice and expressing ideas as a way to finding your unique identity
+
+As we develop our game, we'll be looking to see how we can make players feel these emotions while teaching our learning goals. 
 
 ## Game Loop
 * Parallel Prototyping
 * Play-testing
 * Revisions
 
-## Alignment
+## Second Alignment
 * Goal Changes
 * Aesthetic Changes
 
