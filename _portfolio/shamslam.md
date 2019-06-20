@@ -60,12 +60,12 @@ Our interviews told us that people feel like imposters in highly different scena
 
 We looked at all of the information we had collected and broke them down along different goal dimensions. We felt that there was good substance for cognitive and dispositional goals, but not as much on skills. 
 
-Cognitive Goals:
+**Cognitive Goals**
 * Increase awareness of IS symptoms
 * Differentiate between good / bad coping mechanisms
 * Identify situations to apply coping mechanisms
-
-Dispositional Goals:
+  
+**Dispositional Goals**
 * See that IS can be overcome
 * See that IS is common and normal
 * Gain efficacy to use good coping mechanisms in their life
@@ -76,19 +76,21 @@ As we prepared to move into game development, we needed a bridge between goals a
 We then turned our Learning Goals into congruent Aesthetic Goals so that we could design a game accordingly. 
 
 Aesthetic Goals:
-* Sensation
+* **Sensation**
   * Recognizing I.S. in yourself and catching yourself in the act of a bad coping mechanism is a sensory experience. Paying attention to how you feel a large part of catching yourself in the act.
-* Empathy
+* **Empathy**
   * I.S. feels bad and its prevalence makes empathy important for realizing that you’re not alone or that those around you could have I.S. 
-* Trust
+* **Trust**
   * A main coping mechanism is confiding in others and valuing others’ opinions of your work
-* Expression
+* **Expression**
   * Finding your voice and expressing ideas as a way to finding your unique identity
 
-As we develop our game, we'll be looking to see how we can make players feel these emotions while teaching our learning goals. 
+As we developed our game, we were looking to see how we can make players feel these emotions while teaching our learning goals. 
 
 ## Game Loop
-* Parallel Prototyping
+### Parallel Prototyping
+It was time to start thinking about form. Multiplayer or Single player? Digital or Analog? There were a lot of questions and we answered them by prototyping and testing.
+
 * Play-testing
 * Revisions
 
