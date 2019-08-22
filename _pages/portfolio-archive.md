@@ -8,25 +8,11 @@ entries_layout: grid
 author_profile: false
 
 header:
-    overlay_image: /assets/images/creative_work.jpg
+    # overlay_image: /assets/images/creative_work.jpg
     overlay_color: "#fce205"
     overlay_filter: "0.4"
 
 feature_row:
--   image_path: assets/images/shamslam/tandem_design_small.png
-    title: "ShamSlam"
-    url: "/portfolio/shamslam"
-    excerpt: "Teaching to Cope with Impostor Syndrome through Games"
-
--   image_path: assets/images/zipper/zipper_model.png
-    title: "Zipper"
-    url: "/portfolio/zipper"
-    excerpt: "A Novel Approach to Competency Assessment"
-
--   image_path: assets/images/eslcurriculum/backward_design_small.jpg
-    title: "Career-Oriented ESL"
-    url: "/portfolio/eslcurriculum"
-    excerpt: "English Language Module using Careers as a Context"
 ---       
 <!-- #  Portfolio   -->
 
