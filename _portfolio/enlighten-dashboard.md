@@ -1,7 +1,9 @@
 ---
 title: "Enlighten Dashboard"
-
 excerpt: "A Comparative Dashboard for School Administrators, sponsored by Renaissance Learning, Inc."
+
+category: "edtech"
+rank: 4
 
 layout: splash
 classes:
@@ -21,15 +23,18 @@ header:
 ## Intro
 **Role** : Project Coordinator
 
-**Duration** : 7 months
-
 **Client** : Renaissance Learning, Inc.
+
+**Duration** : 7 months
 
 **Team Members** : Yihong Shi, Canhai Chen, Bella Yang, & Jiasi Tan
 
 **Course** : METALS Capstone, Profs. Ken Koedinger & Bruce McLaren, Spring-Summer 2019
 
 ## The Enlighten Dashboard
+
+{% include figure image_path="" alt="this is a placeholder image" caption="This is a figure caption." %}
+
 The Enlighten Dashboard aims to provide context and
 connectivity to school improvement. Gone are the days
 of national standards and working in silos. With the
