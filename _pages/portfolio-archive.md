@@ -12,6 +12,8 @@ header:
     overlay_color: "#fce205"
     overlay_filter: "0.4"
 ---
+More Coming Soon
+
 
 <!-- 
 -   image_path: 
