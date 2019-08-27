@@ -6,6 +6,8 @@ permalink: /about/
 ## Future
 I'm currently seeking a role where I can investigate, design and create solutions to learning problems. I'm passionate about art, computer science, work-force development, and Social-Emotional education, but open to all great education challenges. Please contact me if you have an opportunity available! 
 
+[Contact Me](mailto:gbunyea+jobs@cmu.edu){: .btn .btn--info .btn--large .align-center }
+
 ## Present
 I have recently graduated from [Carnegie Mellon University](https://cmu.edu)'s Masters in Education Technology and Applied Learning Science [(**METALS**)](https://metals.hcii.cmu.edu). Through METALS, I have learned how to use academic and user-centered research, learning science principles, and novel technologies to create curricula, intelligent tutors, and ed-tech products.
 
