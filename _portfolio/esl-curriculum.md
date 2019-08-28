@@ -6,6 +6,12 @@ layout: single
 
 last_modified_at: 2019-08-27
 
+# categories:
+#  - learning design
+# tags: 
+#  - Project
+#  - Curriculum Design
+
 header:
 #     # overlay_image: /assets/images/creative_work.jpg
     overlay_color: "#1667e6"

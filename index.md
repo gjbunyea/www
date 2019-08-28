@@ -13,7 +13,8 @@ excerpt: "Educator - Designer - Researcher - Learner"
 layout: splash
 classes:
  - landing
-date: "2019-02-27"
+
+last_modified_at: 2019-08-28
 
 header:
     # overlay_image: /assets/images/creative_work.jpg

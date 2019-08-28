@@ -6,6 +6,12 @@ layout: single
 
 last_modified_at: 2019-08-28
 
+# categories:
+#  - learning design
+# tags: 
+#  - Project
+#  - E-Learning
+
 header:
 #     # overlay_image: /assets/images/creative_work.jpg
     overlay_color: "#84BCDA"
