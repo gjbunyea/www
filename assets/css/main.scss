@@ -1,9 +1,13 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
 
 $primary-color: #1869e6;
+$gore-blue: #1667E6 !global;
+$gore-yellow: #ECC30B !global;
+$gore-teal: #84BCDA !global;
+$gore-red: #B24C63 !global;
+$gorange: #F37748 !global;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
