@@ -16,7 +16,7 @@ $code-background-color-dark : $light-gray !default;
 $text-color                 : $dark-gray !default;
 $border-color               : $lighter-gray !default;
 
-$primary-color              : $gray !default;
+$gore-color              : $gray !default;
 $success-color              : #27ae60 !default;
 $warning-color              : #e67e22 !default;
 $danger-color               : #c0392b !default;
@@ -26,5 +26,5 @@ $info-color                 : #03a9f4 !default;
 $link-color                 : $info-color !default;
 $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 25%) !default;
-$masthead-link-color        : $primary-color !default;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+$masthead-link-color        : $gore-color !default;
+$masthead-link-color-hover  : mix(#000, $gore-color, 25%) !default;

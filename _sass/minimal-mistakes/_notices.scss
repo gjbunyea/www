@@ -72,7 +72,7 @@
 /* Primary notice */
 
 .notice--primary {
-  @include notice($primary-color);
+  @include notice($gore-color);
 }
 
 /* Info notice */
