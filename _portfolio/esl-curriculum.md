@@ -23,7 +23,7 @@ In January 2019, the module was used by a stakeholder who praised its hands-on a
 
 **Role** : Instructional Designer
 
-**In Collaboration With** : Journey's End Refugee Services
+**In Collaboration With** : Journey's End Refugee Services, Buffalo NY
 
 **Duration** : 3 months
 
