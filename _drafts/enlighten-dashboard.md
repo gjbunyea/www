@@ -2,8 +2,8 @@
 title: "Enlighten Dashboard"
 excerpt: "A Comparative Dashboard for School Administrators, sponsored by Renaissance Learning, Inc."
 
-category: "edtech"
-rank: 4
+category:
+ - ed tech
 
 layout: splash
 classes:
@@ -18,7 +18,6 @@ header:
         url: https://demo.enlighten.education/
      -  label: "View Documentation"
         url: https://enlighten.education/index.html
-
 ---
 ## Intro
 **Role** : Project Coordinator
