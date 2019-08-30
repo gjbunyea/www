@@ -14,7 +14,7 @@ tags:
  - Intelligent Tutor
 
 header:
-    overlay_image: /assets/images/creative_work.jpg
+    # overlay_image: /assets/images/creative_work.jpg
     overlay_color: "#F37748"
 #     overlay_filter: "0.4"
 #     actions:
