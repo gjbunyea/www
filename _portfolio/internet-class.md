@@ -4,11 +4,11 @@ excerpt: "Large-scale course on all things internet related"
 
 layout: single
 
-# categories:
-#  - learning design
-# tags: 
-#  - Work
-#  - CS Ed
+category:
+ - Learning Design
+tags: 
+ - Work
+ - CS Ed
 
 last_modified_at: 2019-08-28
 

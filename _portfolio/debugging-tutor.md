@@ -6,12 +6,12 @@ layout: single
 
 last_modified_at: 2019-08-28
 
-# categories:
-#  - learning design
-# tags: 
-#  - Project
-#  - CS Ed
-#  - Intelligent Tutor
+category:
+ - Learning Design
+tags: 
+ - Project
+ - CS Ed
+ - Intelligent Tutor
 
 header:
     overlay_image: /assets/images/creative_work.jpg

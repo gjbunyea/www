@@ -5,6 +5,8 @@
     {% assign path_type = nil %}
 {% endcase %}
 
+{% assign tag_archive_path = page.tag_archive_path | default: site.tag_archive.path %}
+
 {% if site.tag_archive.path %}
   {% comment %}
     <!-- Sort alphabetically regardless of case e.g. a B c d E -->

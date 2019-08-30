@@ -1,16 +1,16 @@
 ---
-title: "Career Oriented ESL"
-excerpt: "Formal/Informal English Instructor-Led Curriculum Module for Career-Motivated Refugees"
+title: "Career Oriented ESL Curriculum"
+excerpt: "Instructor-led English curriculum module for refugees"
 
 layout: single
 
 last_modified_at: 2019-08-27
 
-# categories:
-#  - learning design
-# tags: 
-#  - Project
-#  - Curriculum Design
+category:
+ - Learning Design
+tags: 
+ - Project
+ - Curriculum Design
 
 header:
 #     # overlay_image: /assets/images/creative_work.jpg

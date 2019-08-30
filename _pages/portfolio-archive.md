@@ -7,6 +7,9 @@ collection: portfolio
 entries_layout: grid
 author_profile: false
 
+sort_by: last_modified_at
+sort_order: forward
+
 header:
     # overlay_image: /assets/images/creative_work.jpg
     overlay_color: "#fce205"

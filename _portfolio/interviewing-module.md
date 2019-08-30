@@ -6,11 +6,11 @@ layout: single
 
 last_modified_at: 2019-08-28
 
-# categories:
-#  - learning design
-# tags: 
-#  - Project
-#  - E-Learning
+category:
+ - Learning Design
+tags: 
+ - Project
+ - E-Learning
 
 header:
 #     # overlay_image: /assets/images/creative_work.jpg
