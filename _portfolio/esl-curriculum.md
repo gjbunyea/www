@@ -9,8 +9,9 @@ last_modified_at: 2019-08-27
 category:
  - Learning Design
 tags: 
- - Project
  - Curriculum Design
+ - ESL
+ - Client-Centered
 
 header:
 #     # overlay_image: /assets/images/creative_work.jpg
