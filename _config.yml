@@ -286,6 +286,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -317,6 +320,15 @@ defaults:
       share: false
       tag_archive_path: /tags/
       category_archive_path: /categories/
+  # resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
 
 
 # Archives
