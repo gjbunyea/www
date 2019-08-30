@@ -1,14 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 title: "Greg Bunyea"
-# Designing Educational Experiences
-# Learning should be fun.
-# Make it happen!
-# Teaching things worth learning
 
-excerpt: "Educator - Designer - Researcher - Learner"
+excerpt: "An educational designer looking to tackle learning problems with research, cutting-edge technology, and an artistic flair"
 
 layout: splash
 classes:
@@ -25,6 +18,22 @@ header:
         url: /GregBunyeaResume.pdf
 
 feature_row:
+  - title: "Browse my Portfolio"
+    excerpt: "Projects spanning the educational space, from large-scale seminars to intelligent tutors"
+    url: "/portfolio/"
+    btn_label: "View All Projects"
+    btn_class: "btn--primary"
+  - title: "Browse by Category"
+    excerpt: "Narrow your search by starting with what interests you most"
+    url: "/categories/"
+    btn_label: "View Categories"
+    btn_class: "btn--primary"
+  - title: "Resources"
+    excerpt: "Find something new in my curated resources"
+    url: "/resources"
+    btn_label: "Coming Soon"
+    btn_class: "btn--disabled"
+
 
     # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -37,4 +46,4 @@ feature_row:
 
 ---
 
-<!-- {% include feature_row %} -->
+{% include feature_row %}
