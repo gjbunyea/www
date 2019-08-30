@@ -4,13 +4,13 @@ excerpt: "Large-scale course on all things internet related"
 
 layout: single
 
+last_modified_at: 2019-08-28
+
 category:
  - Learning Design
 tags: 
  - Work
  - CS Ed
-
-last_modified_at: 2019-08-28
 
 header:
 #     # overlay_image: /assets/images/creative_work.jpg
