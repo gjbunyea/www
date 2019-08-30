@@ -9,7 +9,6 @@ last_modified_at: 2019-08-28
 category:
  - Learning Design
 tags: 
- - Project
  - CS Ed
  - Intelligent Tutor
 
