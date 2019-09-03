@@ -14,8 +14,8 @@ tags:
  - Client-Centered
 
 header:
-#     # overlay_image: /assets/images/creative_work.jpg
-    overlay_color: "#1667e6"
+    teaser: assets/images/esl-curriculum/esl-teaser.svg
+    overlay_color: "#B24C63"
 #     overlay_filter: "0.4"
 #     actions:
 #      -  label: "View the Module"

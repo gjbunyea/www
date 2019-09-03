@@ -8,6 +8,8 @@ $gore-yellow: #ECC30B !global;
 $gore-teal: #84BCDA !global;
 $gore-red: #B24C63 !global;
 $gorange: #F37748 !global;
+$gore-green: #5AAD6A !global;
+$gore-purple: #8D6A9F !global;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
