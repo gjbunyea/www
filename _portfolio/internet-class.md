@@ -12,7 +12,7 @@ tags:
  - CS Ed
 
 header:
-#     # overlay_image: /assets/images/creative_work.jpg
+    teaser: assets/images/internet-class/internet-teaser.svg
     overlay_color: "#039be5"
 ---
 For 2 years, I designed, developed, taught and iterated on a large-scale seminar about *How the Internet Works* or **`internet-class`** for short. This was a new course when I was hired, meaning all content was produced from the ground up. My role involved:

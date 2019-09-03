@@ -39,4 +39,4 @@ In January 2019, the module was used by a stakeholder who praised its hands-on a
 
 
 
-{% include figure image_path="/assets/images/eslcurriculum/egia_poster.svg" alt="Poster with curriculum design information" caption="Poster detailing overall curriculum design, including context, goals, Big Ideas, and schedule" %}
+{% include figure image_path="/assets/images/esl-curriculum/egia_poster.svg" alt="Poster with curriculum design information" caption="Poster detailing overall curriculum design, including context, goals, Big Ideas, and schedule" %}
