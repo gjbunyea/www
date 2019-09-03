@@ -29,10 +29,10 @@ feature_row:
     btn_label: "View Categories"
     btn_class: "btn--primary"
   - title: "Resources"
-    excerpt: "Find something new in my curated resources"
-    url: "/resources"
-    btn_label: "Coming Soon"
-    btn_class: "btn--disabled"
+    excerpt: "Find something new in my resources"
+    url: "/resources/"
+    btn_label: "View Resources"
+    btn_class: "btn--primary"
 
 
     # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg

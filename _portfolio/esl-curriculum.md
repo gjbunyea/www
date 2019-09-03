@@ -14,8 +14,8 @@ tags:
  - Client-Centered
 
 header:
-#     # overlay_image: /assets/images/creative_work.jpg
-    overlay_color: "#1667e6"
+    teaser: assets/images/esl-curriculum/esl-teaser.svg
+    overlay_color: "#B24C63"
 #     overlay_filter: "0.4"
 #     actions:
 #      -  label: "View the Module"
@@ -39,4 +39,4 @@ In January 2019, the module was used by a stakeholder who praised its hands-on a
 
 
 
-{% include figure image_path="/assets/images/eslcurriculum/egia_poster.svg" alt="Poster with curriculum design information" caption="Poster detailing overall curriculum design, including context, goals, Big Ideas, and schedule" %}
+{% include figure image_path="/assets/images/esl-curriculum/egia_poster.svg" alt="Poster with curriculum design information" caption="Poster detailing overall curriculum design, including context, goals, Big Ideas, and schedule" %}

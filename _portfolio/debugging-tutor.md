@@ -13,7 +13,7 @@ tags:
  - Intelligent Tutor
 
 header:
-    # overlay_image: /assets/images/creative_work.jpg
+    teaser: assets/images/debugging-tutor/debug-teaser.svg
     overlay_color: "#F37748"
 #     overlay_filter: "0.4"
 #     actions:

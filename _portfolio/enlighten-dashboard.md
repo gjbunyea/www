@@ -14,8 +14,8 @@ tags:
  - Client-Centered
 
 header:
-    # overlay_image: /assets/images/creative_work.jpg
-    overlay_color: "#1667e6"
+    teaser: assets/images/enlighten-dashboard/enlighten-teaser.svg 
+    overlay_color: "#f8c839"
 ---
 My Master's Capstone project, sponsored by Renaissance Learning, Inc, involved investigating K-12 school administrators' need for school-to-school demographic comparison. The result of a 7-month research, design, development and testing cycle, the Enlighten Dashboard allows administrators to compare, analyze, and connect to schools most similar to their own. 
 
