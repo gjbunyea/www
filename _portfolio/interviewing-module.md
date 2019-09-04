@@ -12,8 +12,8 @@ tags:
  - E-Learning
 
 header:
-#     # overlay_image: /assets/images/creative_work.jpg
-    overlay_color: "#84BCDA"
+    teaser: assets/images/interviewing-module/interview-teaser.svg
+    overlay_color: "#8D6A9F"
 ---
 Aiming to improve instruction in Carnegie Mellon's User-Centered Research and Evaluation course (UCRE), we designed a module targeting interview preparation -- an important, but missing piece of UCRE's interviewing module. 
 

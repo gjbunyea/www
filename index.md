@@ -10,25 +10,28 @@ classes:
 last_modified_at: 2019-08-28
 
 header:
-    # overlay_image: /assets/images/creative_work.jpg
-    overlay_color: "#1667e6"
-    overlay_filter: "0.4"
+    overlay_image: /assets/images/site/gore-banner.svg
+    # overlay_color: "#1667e6"
+    # overlay_filter: "0.4"
     actions:
     -   label: "View My Resume"
         url: /GregBunyeaResume.pdf
 
 feature_row:
-  - title: "Browse my Portfolio"
+  - image_path: /assets/images/site/portfolio-teaser.svg
+    title: "Browse my Portfolio"
     excerpt: "Projects spanning the educational space, from large-scale seminars to intelligent tutors"
     url: "/portfolio/"
     btn_label: "View All Projects"
     btn_class: "btn--primary"
-  - title: "Browse by Category"
+  - image_path: /assets/images/site/category-teaser.svg
+    title: "Browse by Category"
     excerpt: "Narrow your search by starting with what interests you most"
     url: "/categories/"
     btn_label: "View Categories"
     btn_class: "btn--primary"
-  - title: "Resources"
+  - image_path: /assets/images/site/resources-teaser.svg
+    title: "Resources"
     excerpt: "Find something new in my resources"
     url: "/resources/"
     btn_label: "View Resources"
