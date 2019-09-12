@@ -111,9 +111,9 @@ author:
   location         : "Greater NYC Area"
   # email            : "gbunyea+site@cmu.edu"
   links:
-    - label: "gbunyea@cmu.edu"
+    - label: "gregbunyea@gmail.com"
       icon: "fas fa-envelope"
-      url: "mailto:gbunyea+site@cmu.edu"
+      url: "mailto:gregbunyea+site@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/gregbunyea"
