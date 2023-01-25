@@ -33,8 +33,6 @@ In January 2019, the module was used by a stakeholder who praised its hands-on a
 
 **Duration** : 3 months
 
-**Course** : Educational Goals, Instruction & Assessment, Profs. Sharon Carver & Lauren Herckis, Fall 2018
-
 [View the Module](https://docs.google.com/document/d/1V_pm6ukltywGe8MY84XNjVUenzLkcg7-4xzBZoaIC1Y/edit?usp=sharing){: .btn .btn--info .btn--large}
 
 

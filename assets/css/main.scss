@@ -3,13 +3,13 @@
 @charset "utf-8";
 
 $primary-color: #1869e6;
-$gore-blue: #1667E6 !global;
-$gore-yellow: #ECC30B !global;
-$gore-teal: #84BCDA !global;
-$gore-red: #B24C63 !global;
-$gorange: #F37748 !global;
-$gore-green: #5AAD6A !global;
-$gore-purple: #8D6A9F !global;
+$gore-blue: #1667E6;
+$gore-yellow: #ECC30B;
+$gore-teal: #84BCDA;
+$gore-red: #B24C63;
+$gorange: #F37748;
+$gore-green: #5AAD6A;
+$gore-purple: #8D6A9F;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
